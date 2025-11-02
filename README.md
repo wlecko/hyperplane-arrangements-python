@@ -5,7 +5,7 @@ Educational project for modeling and visualizing hyperplane arrangements in 1D, 
 This project models and visualizes how a system of *n* hyperplanes divides a *d*-dimensional space (for d = 1, 2, or 3).  
 It combines **mathematical analysis** with **computational modeling** to verify the general formula for the maximum number of regions formed by hyperplanes in general position:
 
-![formula](https://latex.codecogs.com/png.image?\dpi{150}R(n,d)=\sum_{k=0}^{d}\binom{n}{k})
+![formula](https://latex.codecogs.com/png.image?\bg_black\dpi{150}\color{white}R(n,d)=\sum_{k=0}^{d}\binom{n}{k})
 
 ---
 
@@ -83,11 +83,10 @@ Enter the number of hyperplanes: 4
 ## 🌐 Repository and Accessibility
 
 The complete source code, example outputs, and setup instructions are publicly available at:  
-👉 [https://github.com/yourusername/hyperplane-arrangements-python](https://github.com/yourusername/hyperplane-arrangements-python)
+👉 [https://github.com/wlecko/hyperplane-arrangements-python](https://github.com/wlecko/hyperplane-arrangements-python)
 
 This repository includes:
-- A ready-to-run **Python script** (`main.py`) for direct execution;
-- **Example figures** for 2D and 3D configurations (`examples/` folder);
+- A ready-to-run **Python script** (`main.py`) for direct execution
 - Clear documentation (`README.md`) explaining the theory and algorithmic logic.
 
 All materials are open access and may be reused for **educational and non-commercial research purposes** with proper citation.
