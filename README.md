@@ -5,7 +5,7 @@ Educational project for modeling and visualizing hyperplane arrangements in 1D, 
 This project models and visualizes how a system of *n* hyperplanes divides a *d*-dimensional space (for d = 1, 2, or 3).  
 It combines **mathematical analysis** with **computational modeling** to verify the general formula for the maximum number of regions formed by hyperplanes in general position:
 
-![formula](https://latex.codecogs.com/png.image?\bg_black\dpi{150}\color{white}R(n,d)=\sum_{k=0}^{d}\binom{n}{k})
+![formula](https://latex.codecogs.com/png.image?\dpi{150}\color{white}R(n,d)=\sum_{k=0}^{d}\binom{n}{k})
 
 ---
 
